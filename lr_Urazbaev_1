@@ -1,0 +1,8 @@
+man# manual page output
+info# output of the manual page in GNU textinfo format
+echo# text string output
+pwd# display the current working directory of the pwd user
+date# Thu 09 Nov 2023 01:15:42 AM +05
+who# admin1   tty1         2023-11-09 00:51
+is# displaying the contents of a directory
+cat# output the contents of the files
