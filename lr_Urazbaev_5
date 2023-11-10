@@ -1,8 +1,0 @@
-ps# provide a snapshot of existing processes in the system
-top# provide information about the systems processes in an interactive form
-pstree# displayind the process tree in the system
-jobs# return a list of tasks in the current shell session
-fg# move a task from the current session to the foreground
-bg# move a task from the current session to the background 
-kill# terminate the process send a signal to the process
-killall# terminate a process group send a signal to a process group
