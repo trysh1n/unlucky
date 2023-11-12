@@ -1,0 +1,11 @@
+man# output of the manual page
+info# output of the manual page in GNU textinfo format
+echo# output of a text string
+pwd# output of the users current working directory
+/home/admin1/loser/unlucky
+date# output of the current system date and time
+Sun 12 Nov 2023 01:51:24 PM +05
+who# displaying a list of users authorized in the system
+admin1   tty1         2023-11-09 00:51
+ls# output of the contents of a diroctory 
+cat# output of file contents
