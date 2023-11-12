@@ -1,0 +1,3 @@
+568K	/home/admin1/loser
+4.0K	/home/admin1/os_kernel_version.txt
+4.0K	/home/admin1/memory_state.txt
