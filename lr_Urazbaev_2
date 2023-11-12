@@ -1,0 +1,35 @@
+.
+├── cat1
+│   ├── cat2
+│   │   ├── cat3
+│   │   │   ├── cat6
+│   │   │   └── cat7
+│   │   └── cat5
+│   └── cat8
+├── dir
+│   └── current_date
+├── lr_Urazbaev_2
+└── unlucky
+    ├── cut_result
+    ├── file_count.txt
+    ├── filelist1.txt
+    ├── filelist1.txt.bz2
+    ├── filelist1.txt.bz2_2
+    ├── filelist1.txt.bz2_9
+    ├── filelist1.txt.gz
+    ├── filelist1.txt.gz1
+    ├── filelist1.txt.gz9
+    ├── filelist2.txt
+    ├── filelist3.txt
+    ├── filelist4.txt
+    ├── filelist.rar
+    ├── filelist.tar
+    ├── filelist.zip
+    ├── home_directory_size.txt
+    ├── largest_directories.txt
+    ├── lr_Urazbaev_1
+    ├── lr_Urazbaev_2
+    ├── memory_state.txt
+    └── os_kernel_version.txt
+
+9 directories, 23 files
